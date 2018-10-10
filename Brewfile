@@ -2,8 +2,14 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew autoconf
+brew go
 brew heroku
 brew mas
+brew openssl
+brew pkg-config
+brew rbenv
+brew ruby-build
 
 tap homebrew/cask
 cask docker
