@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew autoconf
+brew composer
 brew freetype
 brew go
 brew imagemagick
