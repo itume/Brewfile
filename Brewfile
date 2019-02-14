@@ -23,10 +23,14 @@ brew openjpeg
 brew openssl
 brew pkg-config
 brew rbenv
+brew readline
 brew ruby-build
+brew sqlite
 brew webp
 brew x265
 brew xz
+
+tap homebrew/services
 
 tap homebrew/cask
 cask docker
