@@ -6,20 +6,26 @@ brew autoconf
 brew composer
 brew freetype
 brew go
+brew ilmbase
 brew imagemagick
 brew jpeg
+brew libde265
+brew libheif
 brew libomp
 brew libpng
 brew libtiff
 brew libtool
 brew little-cms2
 brew mas
+brew mysql
+brew openexr
 brew openjpeg
 brew openssl
 brew pkg-config
 brew rbenv
 brew ruby-build
 brew webp
+brew x265
 brew xz
 
 tap homebrew/cask
