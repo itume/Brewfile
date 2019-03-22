@@ -5,12 +5,16 @@ tap homebrew/core
 brew autoconf
 brew composer
 brew freetype
+brew gdbm
+brew gettext
+brew glib
 brew go
 brew icu4c
 brew ilmbase
 brew imagemagick
 brew jpeg
 brew libde265
+brew libffi
 brew libheif
 brew libomp
 brew libpng
@@ -22,11 +26,14 @@ brew mysql
 brew openexr
 brew openjpeg
 brew openssl
+brew pcre
 brew pkg-config
 brew postgresql
+brew python
 brew rbenv
 brew readline
 brew ruby-build
+brew shared-mime-info
 brew sqlite
 brew webp
 brew x265
@@ -37,7 +44,8 @@ tap homebrew/services
 tap homebrew/cask
 cask docker
 cask google-chrome
-cask spotify
+cask slack
+cask visual-studio-code
 
 tap argon/mas
 
@@ -50,8 +58,8 @@ brew brew-file
 
 # Other Cask applications
 cask gimp
-cask slack
-cask visual-studio-code
+cask google-japanese-ime
+cask spotify
 
 # App Store applications
 appstore 682658836 GarageBand (10.3.2)
