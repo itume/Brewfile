@@ -63,6 +63,7 @@ brew openjpeg
 brew openssl
 brew pango
 brew pcre
+brew peco
 brew pixman
 brew pkg-config
 brew plotutils
