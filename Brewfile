@@ -38,6 +38,7 @@ brew isl
 brew jasper
 brew jpeg
 brew kubernetes-cli
+brew kubernetes-helm
 brew libcerf
 brew libde265
 brew libevent
