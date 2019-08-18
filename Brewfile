@@ -31,6 +31,7 @@ brew graphicsmagick
 brew graphite2
 brew harfbuzz
 brew hdf5
+brew hwloc
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -54,12 +55,14 @@ brew libtool
 brew libvorbis
 brew little-cms2
 brew lua
+brew lzo
 brew mas
 brew metis
 brew mpfr
 brew mysql
 brew netpbm
 brew node
+brew nodebrew
 brew octave
 brew open-mpi
 brew openblas
@@ -74,6 +77,7 @@ brew pkg-config
 brew plotutils
 brew portaudio
 brew postgresql
+brew protobuf
 brew pstoedit
 brew python
 brew qhull
