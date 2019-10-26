@@ -69,6 +69,7 @@ brew openblas
 brew openexr
 brew openjpeg
 brew openssl
+brew openssl@1.1
 brew pango
 brew pcre
 brew peco
@@ -104,6 +105,7 @@ tap homebrew/cask
 cask docker
 cask google-chrome
 cask karabiner-elements
+cask microsoft-teams
 cask spotify
 
 tap argon/mas
@@ -118,6 +120,7 @@ brew brew-file
 # Other Cask applications
 cask gimp
 cask google-japanese-ime
+cask kindle
 cask slack
 cask visual-studio-code
 
@@ -127,3 +130,4 @@ appstore 408981434 iMovie (10.1.11)
 appstore 409183694 Keynote (9.0.2)
 appstore 409203825 Numbers (6.0)
 appstore 409201541 Pages (8.0)
+appstore 497799835 Xcode (11.0)
