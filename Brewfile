@@ -102,8 +102,9 @@ brew yarn
 tap homebrew/services
 
 tap homebrew/cask
-cask docker
-cask google-chrome
+cask android-studio
+cask gimp
+cask google-japanese-ime
 cask karabiner-elements
 cask microsoft-teams
 cask spotify
@@ -118,8 +119,9 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask gimp
-cask google-japanese-ime
+cask docker
+cask google-chrome
+cask iterm2
 cask kindle
 cask slack
 cask visual-studio-code
